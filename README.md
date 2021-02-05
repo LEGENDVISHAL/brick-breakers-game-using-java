@@ -20,7 +20,7 @@
 <h4>Step 1:</h4>
 <p>Ensure that you have the Java SE version 12.02 and above.</p>
 <p>To Download Java <code>click</code> the below link</p>
-<pre><a>https://www.oracle.com/java/technologies/javase-downloads.html</a></pre>
+<a>https://www.oracle.com/java/technologies/javase-downloads.html</a>
 <h4>Step 2:</h4>
 <p>Now download all the three game files in one folder</p>
 <ul>
