@@ -23,11 +23,19 @@
 <pre><a>https://www.oracle.com/java/technologies/javase-downloads.html</a></pre>
 <h4>Step 2:</h4>
 <p>Now download all the three game files in one folder</p>
+<ul>
+  <li>Main.java</li>
+  <li>GamePlay.java</li>
+  <li>LevelGenerator.java</li>
+</ul>
 <h4>Step 3:</h4>
 <p>Just open command prompt and change the directory to your folder, then run the command:</p>
 <pre>javac Main.java</pre>
 <p>then:</p>
 <pre>java Main</pre>
+
+<h5>Currently having 5 levels, I will be adding more in future.</h5>
+<p>Let me know your feedback about this game.</p>
 
 <h2>If you face any difficulties, feel free to ask me: </h2>
 <pre>vishalthoke2@gmail.com</pre>
